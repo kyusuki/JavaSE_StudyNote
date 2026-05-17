@@ -1,0 +1,11 @@
+# Java 编译目录
+target/
+*.class
+
+# 编辑器配置
+.obsidian/
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
